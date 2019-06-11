@@ -10,13 +10,10 @@
       "id": 2
     },
     {
-      "label": "IPhone 7 +",
-      "os": "ios",
-      "price": 300,
-      "rate": 3,
-      "memory": 3000,
-      "desc": "ciao io sono una descrizione...",
-      "id": 24
+      "label": "LG g6",
+      "price": 455,
+      "os": "android",
+      "id": 3
     }
   ],
   "login": {
