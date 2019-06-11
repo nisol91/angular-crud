@@ -1,0 +1,25 @@
+{
+  "devices": [
+    {
+      "label": "One Plus 8",
+      "os": "android",
+      "price": 750,
+      "rate": 3,
+      "memory": 7400,
+      "desc": "One Plus 5 is a flagship phone...",
+      "id": 2
+    },
+    {
+      "label": "IPhone 7 +",
+      "os": "ios",
+      "price": 300,
+      "rate": 3,
+      "memory": 3000,
+      "desc": "ciao io sono una descrizione...",
+      "id": 24
+    }
+  ],
+  "login": {
+    "token": "efoiwejo32r32-fake-token"
+  }
+}
